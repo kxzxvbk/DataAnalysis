@@ -4,6 +4,10 @@
 
 The data comes from this url: [医疗费用个人数据集 数据集 - DataFountain](https://www.datafountain.cn/datasets/31). Much thank to the contributer : )
 
+## Installation
+
+Please run:  `pip install -r requirements.txt`
+
 ## Benchmarks
 
 To run different algorithms on this dataset. We use the commands in the following table:

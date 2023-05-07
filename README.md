@@ -16,7 +16,7 @@ To run different algorithms on this dataset. We use the commands in the followin
 | Decision Tree         | python decision_tree_main.py     | 0.683±0.069                                     |
 | XGBoost               | python xgboost_main.py           | 0.806±0.059                                     |
 | Random Forest         | python random_foreset_main.py    | 0.833±0.048                                     |
-| LightGBM              | python lightgbm_main.py          | 0.841±0.047                                     |
+| LightGBM              | python lightgbm_main.py          | 0.858±0.046                                     |
 | Bayesian Method(ours) | python bayesian_main.py          | **0.845±0.064**                                 |
 
 ## Citation
